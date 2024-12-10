@@ -18,8 +18,8 @@ pip install playsound
 1. Clone the repository to your local machine:
 
 """"""""""""""""""
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/kayyy01/GO2COD_PY_03.git
+   cd GO2COD_PY_03
    
 """""""""""""""""""   
    
